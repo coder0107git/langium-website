@@ -1,4 +1,4 @@
 User-agent: *
-Disallow: /tags/*
+Disallow: *
 
 Sitemap: {{ "sitemap.xml" | absURL }}
